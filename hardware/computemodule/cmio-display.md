@@ -10,8 +10,8 @@ For the display to work with the Compute Module, the firmware needs to be Octobe
 1. Connect these pins together with jumper wires:
 
 	```
-	GPIO0 - CD1_SDA
-	GPIO1 - CD1_SCL
+	GPIO0 - CD0_SDA
+	GPIO1 - CD0_SCL
 	```
 
 1. On the compute module, run:
